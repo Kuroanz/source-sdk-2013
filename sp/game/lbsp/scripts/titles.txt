@@ -133,52 +133,6 @@ CHAPTER5_TITLE
 #HL2_Chapter5_Title
 }
 
-CHAPTER6_TITLE
-{
-#HL2_Chapter6_Title
-}
-
-CHAPTER7_TITLE
-{
-#HL2_Chapter7_Title
-}
-
-CHAPTER8_TITLE
-{
-#HL2_Chapter8_Title
-}
-
-CHAPTER9_TITLE
-{
-#HL2_Chapter9_Title
-}
-
-CHAPTER9A_TITLE
-{
-#HL2_Chapter9a_Title
-}
-
-
-CHAPTER10_TITLE
-{
-#HL2_Chapter10_Title
-}
-
-CHAPTER11_TITLE
-{
-#HL2_Chapter11_Title
-}
-
-CHAPTER12_TITLE
-{
-#HL2_Chapter12_Title
-}
-
-CHAPTER13_TITLE
-{
-#HL2_Chapter13_Title
-}
-
 
 // In-Game messages
 $position 0.1 0.1
